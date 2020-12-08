@@ -1,0 +1,7 @@
+D:\Projects\Console\MalesList\MalesList\bin\Debug\MalesList.exe.config
+D:\Projects\Console\MalesList\MalesList\bin\Debug\MalesList.exe
+D:\Projects\Console\MalesList\MalesList\bin\Debug\MalesList.pdb
+D:\Projects\Console\MalesList\MalesList\obj\Debug\MalesList.csprojAssemblyReference.cache
+D:\Projects\Console\MalesList\MalesList\obj\Debug\MalesList.csproj.CoreCompileInputs.cache
+D:\Projects\Console\MalesList\MalesList\obj\Debug\MalesList.exe
+D:\Projects\Console\MalesList\MalesList\obj\Debug\MalesList.pdb
